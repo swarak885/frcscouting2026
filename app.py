@@ -6,7 +6,6 @@ import tempfile
 import matplotlib.pyplot as plt
 import os
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title("FRC Match Scouting Tool with Robot Tracking")
 
